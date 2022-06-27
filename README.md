@@ -6,8 +6,6 @@
 
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/oadlerlopes" target="_blank" rel="noopener noreferrer">Adler Lopes</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
- 
-<a href="https://github.com/oadlerlopes"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 
 - 🔓 Only old projects are available to the public.
@@ -30,7 +28,7 @@
 
 <br />
 
-[![Ujwal Kandi's github stats](https://github-readme-stats.ujwalkandi.vercel.app/api?username=oadlerlopes&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/oadlerlopes?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=oadlerlopes&layout=compact&langs_count=6&theme=blue-green)](https://github.com/oadlerlopes)
+(https://github-readme-stats.ujwalkandi.vercel.app/api?username=oadlerlopes&count_private=true&show_icons=true&theme=blue-green&hide_rank=false&hide=stars&include_all_commits=true)](https://github.com/oadlerlopes?tab=repositories)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.ujwalkandi.vercel.app/api/top-langs/?username=oadlerlopes&layout=compact&langs_count=6&theme=blue-green)](https://github.com/oadlerlopes)
 
 
 -----
