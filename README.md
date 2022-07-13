@@ -18,13 +18,13 @@ I’m Adler, a senior back-end engineer. Developing backend solutions since 2015
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=4AB197)
-<br>
+<br><br>
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Azure_DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=4AB197)
-<br>
+<br><br>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
