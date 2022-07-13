@@ -16,6 +16,8 @@ I’m Adler, a senior back-end engineer. Developing backend solutions since 2015
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-redis-informational?style=flat&logo=redis&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=4AB197)
 <br>
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Cloud-Azure_DevOps-informational?style=flat&logo=azure-devops&logoColor=white&color=4AB197)
