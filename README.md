@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Adler, a senior back-end engineer. Developing backend solutions since 2015. I worked in several companies in the online game server market, managing approximately +500k users and +6M data in all companies.
+I’m Adler, a senior back-end engineer. Developing backend solutions since 2015. I worked in several companies in the online game server market, managing approximately +550k users and +6.5M data in all companies.
 
 ## 💼 Skills
 
