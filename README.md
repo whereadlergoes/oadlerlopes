@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-I’m Adler, a senior back-end engineer at SoftBird. Developing backend solutions since 2015. I worked in several companies in the online game server market, managing approximately +550k users and +6.5M data in all companies.
+I’m Adler, a senior back-end engineer at SoftBird. Developing backend solutions since 2015. I worked in several companies in the online game server market, managing approximately +550k users and +6.5M data in all companies. Since I was 14 years old, I've been involved in programming because I love technology.
 
 ## 💼 Skills
 
